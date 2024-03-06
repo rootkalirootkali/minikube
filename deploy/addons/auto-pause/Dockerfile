@@ -1,2 +1,2 @@
-FROM golang:1.19
+FROM golang:bookworm
 ADD auto-pause-hook /auto-pause-hook
